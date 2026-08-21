@@ -8,8 +8,7 @@
   "short_name": "Meu Disney",
   "start_url": "/",
   "theme_color": "#fbf2ff",
-  "lang": "pt"
-}
+  "lang": "pt",
 
 "icons": [
       {
@@ -22,7 +21,7 @@
            "sizes": "512x512",
            "type": "image/png"
       }
-    ]
+    ],
 
 "screenshots": [
       {
@@ -32,3 +31,4 @@
            "form_factor": "narrow"
       }
     ]
+}
